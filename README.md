@@ -2,7 +2,7 @@
 
 ## Dataset 
 download dataset from https://s3-us-west-1.amazonaws.com/deepchem.io/datasets/molnet_publish/qm9.zip
-and unzip the file to trimnet_quantum/dataset/raw
+and unzip the file to /data/qm9/raw
 
 ## Requirements  
 matplotlib==3.2.2  
