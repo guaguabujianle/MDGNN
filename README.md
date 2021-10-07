@@ -1,8 +1,8 @@
 # Multitask Deep Learning with Dynamic Task Balancing for Quantum Mechanical Properties Prediction
 
 ## Dataset 
-# download dataset from https://s3-us-west-1.amazonaws.com/deepchem.io/datasets/molnet_publish/qm9.zip
-# unzip the file to trimnet_quantum/dataset/raw
+download dataset from https://s3-us-west-1.amazonaws.com/deepchem.io/datasets/molnet_publish/qm9.zip
+unzip the file to trimnet_quantum/dataset/raw
 
 ## Requirements  
 matplotlib==3.2.2  
