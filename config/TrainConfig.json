@@ -1,0 +1,10 @@
+{
+    "train":
+    {
+        "model": "MDGNN", 
+        "data_root" : "./data/qm9",
+        "save_dir" : "./model",
+        "save_model": true, 
+        "mark": null
+    }
+}
