@@ -5,7 +5,7 @@ download dataset from https://s3-us-west-1.amazonaws.com/deepchem.io/datasets/mo
 and unzip the file to /data/qm9/raw
 
 ## Requirements  
-torch==1.7.1
+torch==1.7.1 <br>
 torch_sparse==0.6.10
 numpy==1.20.1
 tqdm==4.51.0
